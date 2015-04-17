@@ -2,8 +2,19 @@
 --
 -- Put your SQL 'create table' statements in this file; also 'create view'
 -- statements if you choose to use it.
---
--- You can write comments in this file by starting them with two dashes, like
--- these lines here.
 
+-- Create database
+CREATE DATABASE tournament;
+
+-- Create Player tables
+CREATE TABLE players (
+  id            SERIAL PRIMARY KEY, -- assign each user a numeric ID
+  NAME          TEXT -- TODO: Consider making this not null in the future
+);
+
+-- Create matches tables
+
+CREATE TABLE matches (
+
+);
 

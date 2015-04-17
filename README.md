@@ -13,6 +13,19 @@ Use Case:
 Project Targets:
 
 
+Research:
+
+
+TIPS:
+to run a file locally:
+vagrant@vagrant-ubuntu-trusty-32:~$ psql
+psql (9.3.6)
+Type "help" for help.
+
+vagrant=> \i /vagrant/tournament/tournament.sql
+
+
+
 
 Extra credit:
 
