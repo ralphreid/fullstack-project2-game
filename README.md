@@ -1,10 +1,19 @@
 Tournamet App
 =============
+How To Use:
 
 Use Case:
 
 
+Build:
+1. Get database up
+2. Setting SSH Tunel from PyCharm into Vagrant Box Postgres
+	1. https://www.evernote.com/shard/s6/sh/d4455cf4-7c76-44f0-8c62-ab16d3288ebb/ff30234a4cb1635b5e59df9be649e98c
 
+
+TODOs:
+1. Figure out how to Configure Data Sources & Drivers for Postgres Server so that PyCharm can provide advanced code assistance
+	1. Investigated ![Setting up Pycharm Vagrant Tunnel](readme_images/pycharm_vagrant_ssh_tunnel.png "Optional title")
 
 
 
