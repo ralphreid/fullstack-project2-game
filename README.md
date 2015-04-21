@@ -12,7 +12,8 @@ Build:
 
 
 TODOs:
-1. Figure out how to Configure Data Sources & Drivers for Postgres Server so that PyCharm can provide advanced code assistance
+1. Install QuantifiedCode code review tool https://www.quantifiedcode.com
+2. Figure out how to Configure Data Sources & Drivers for Postgres Server so that PyCharm can provide advanced code assistance
 	1. Investigated ![Setting up Pycharm Vagrant Tunnel](readme_images/pycharm_vagrant_ssh_tunnel.png "Optional title")
 
 
